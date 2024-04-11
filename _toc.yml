@@ -1,0 +1,14 @@
+format: jb-book
+root: Overview.ipynb
+parts:
+  - caption: Linear Programming
+    chapters:
+    - file: Linear Programming/Linear Programming.ipynb
+    - file: Linear Programming/Simplex Method.ipynb
+    - file: Linear Programming/L1 Regression.ipynb
+  - caption: Combinatorial Optimization
+    chapters:
+    - file: Combinatorial Optimization/Course Assignment Problem.ipynb
+    - file: Combinatorial Optimization/Graph Coloring and Scheduling.ipynb
+  - caption: Quadratic Optimization
+    - file: Quadratic Optimization/Personal Portfolio Optimization.ipynb
