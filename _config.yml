@@ -1,8 +1,8 @@
 title: Optimization Method
-repository:
-  url: https://github.com/Michxz312/Optimization-Problems
-  branch: main
+repository: https://github.com/Michxz312/Optimization-Problems
+branch: main
 jupyter:
-  nbconvert_template_paths: ["./_layouts/"]
+  nbconvert_template_paths:
+    - _layouts/
   use_jupyter_lab_nbconvert: true
   notebook_path: _toc.yml
