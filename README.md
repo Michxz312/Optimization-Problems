@@ -1,10 +1,10 @@
 ### Learning Portfolio
 
 1) What is the most important thing that you learned in this course?
-I learn to use python solvers to compute solutions of different optimization problems. 
+I learn to use python solvers (google OR-Tools, CVXPY, linprog) to compute solutions of different optimization problems. 
 
 2) What was your process for creating artifacts?
-I generally try to follow the mathematical modelling process, where I define the problem, state the parameters and decision variables, then find the constraints and formulate the problem. Finally, I build a solution and evaluate the solution of the solver. 
+I generally try to follow the mathematical modelling process, where I define the problem, state the parameters and decision variables, then find the constraints and formulate the problem. Finally, I build a solution and interpret the solution of the solver. 
 
 3) Which artifact are you most proud of?
 The first artifact that I created because I completed it and understand what linear programming is better.
