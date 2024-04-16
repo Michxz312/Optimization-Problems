@@ -14,3 +14,5 @@ I find it difficult to visualize some optimization problems and sometimes I get 
 
 5) What guidance would you give to students who are getting started with their own portfolio?
 I suggest managing the time properly and give enough time to review each artifact and be more attentive to the details of the optimization problem. If you get stuck, try to review the formulation instead of focusing on the code.
+
+Final Grade Proposal: B-
