@@ -1,4 +1,4 @@
-### Learning Portfolio
+### Learning Portfolio Cover Letter
 
 1) What is the most important thing that you learned in this course?
 I learn to use python solvers (google OR-Tools, CVXPY, linprog) to compute solutions of different optimization problems. 
